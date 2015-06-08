@@ -211,6 +211,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/hima-common/proprietary/lib/libqomx_core.so:system/lib/libqomx_core.so \
     vendor/htc/hima-common/proprietary/lib/libril.so:system/lib/libril.so \
     vendor/htc/hima-common/proprietary/lib/librmnetctl.so:system/lib/librmnetctl.so \
+    vendor/htc/hima-common/proprietary/lib64/hw/nfc_nci_pn547.default.so:system/lib64/hw/nfc_nci_pn547.default.so \
     vendor/htc/hima-common/proprietary/lib64/hw/sensors.msm8994.so:system/lib64/hw/sensors.msm8994.so \
     vendor/htc/hima-common/proprietary/lib64/libHtcVteEngine.so:system/lib64/libHtcVteEngine.so \
     vendor/htc/hima-common/proprietary/lib64/libawb_calibration.so:system/lib64/libawb_calibration.so \
