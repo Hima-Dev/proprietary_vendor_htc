@@ -238,6 +238,7 @@ PRODUCT_COPY_FILES += \
     vendor/htc/hima-common/proprietary/lib64/libloc_eng.so:system/lib64/libloc_eng.so \
     vendor/htc/hima-common/proprietary/lib64/libril.so:system/lib64/libril.so \
     vendor/htc/hima-common/proprietary/lib64/librmnetctl.so:system/lib64/librmnetctl.so \
+    vendor/htc/hima-common/proprietary/usr/idc/max1187x_touchscreen_0.idc:system/usr/idc/max1187x_touchscreen_0.idc \
     vendor/htc/hima-common/proprietary/vendor/bin/audioflacapp:system/vendor/bin/audioflacapp \
     vendor/htc/hima-common/proprietary/vendor/bin/qti:system/vendor/bin/qti \
     vendor/htc/hima-common/proprietary/vendor/bin/sound_trigger_test:system/vendor/bin/sound_trigger_test \
